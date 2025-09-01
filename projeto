@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>minha página</title>
+  <link rel="stylesheet"href="style.css">
+</head>
+<body>
+  <div class="container">
+   <h1>olá mundo</h1>
+   <button onclick="alert('você clicou no botão!')">clique aqui</button>
+  </div>
+</body>
+</html>
