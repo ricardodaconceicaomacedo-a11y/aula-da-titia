@@ -1,0 +1,17 @@
+body{ background-color: #f0f8ff;
+     font-family: arial,sans,-serif;margin:0;padding:0
+     ;}
+.container{text-align:center;margin-top:20 %;}
+h1{color:#333;}
+button{background-color:#4caf50;
+       color:white;
+       padding:15 px 25 px;
+       border-radius:8 px font-size:16 px;
+       cursor:pointer:transition 3% background-color ease-in-out;
+       ;
+       border:none;
+      }
+button:hover{
+  
+  background-color:#45a049;
+            }
